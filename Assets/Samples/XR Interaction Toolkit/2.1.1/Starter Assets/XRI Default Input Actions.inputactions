@@ -906,6 +906,17 @@
                     "action": "Move",
                     "isComposite": false,
                     "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c75dd3f2-4fb7-4d42-8e20-1ca795eb708b",
+                    "path": "<XRSimulatedController>{RightHand}/primary2DAxis",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Continuous Move",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
                 }
             ]
         },
